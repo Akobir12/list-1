@@ -1,0 +1,12 @@
+@font-face {
+	font-family: list1;
+	src: url(../fonts/GoogleSans-Bold.ttf);
+}
+@font-face {
+	font-family: list2;
+	src: url(../fonts/GoogleSans-BoldItalic.ttf);
+}
+@font-face {
+	font-family: list3;
+	src: url(../fonts/GoogleSans-Italic.ttf);
+}
